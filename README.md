@@ -1,4 +1,5 @@
 How to play:
+
 - Set a room id before starting a match
 - Keys ‘WASD’ for spaceship rotation
 - spacebar for acceleration
@@ -7,12 +8,16 @@ antilock wise rotation
 - while !pressing space you can only rotate using ‘A’ & ‘D’ for clockwise and
 anticlockwise rotation
 - left mouse click for firing
+
 Additional Info:
+
 - players are colour coded
 - player limit is set to 4
 - player stats are cooler coded as well
 - Bonus work is not included
+
 What I followed:
+
 - I followed Fusion Manual (100 series). I am basically experienced with PUN2 & Quantum that is why I had to go through 100 series to know about the scriptable use of fusion.
 Technical Issues Faced:
 - Since I am new to fusion understanding, the biggest issue I faced is that pun2 and fusion has totally different components, sync is different as well as network objects & components.
