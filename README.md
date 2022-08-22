@@ -19,7 +19,9 @@ Additional Info:
 What I followed:
 
 - I followed Fusion Manual (100 series). I am basically experienced with PUN2 & Quantum that is why I had to go through 100 series to know about the scriptable use of fusion.
+
 Technical Issues Faced:
+
 - Since I am new to fusion understanding, the biggest issue I faced is that pun2 and fusion has totally different components, sync is different as well as network objects & components.
 - I used the latest SDK of fusion but I guess it’s unstable right now because while I was using rigidbody2d I was getting exceptions which I eliminated by reverting to the previous version (1.1.2.546)
 - In the latest version the fusion physics library was going haywire upon even initialising the fusion and the rigid body exception was fixed just by reverting to previous version of fusion and the same code worked fine.
