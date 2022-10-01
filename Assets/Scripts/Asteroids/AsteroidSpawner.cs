@@ -122,7 +122,6 @@ public class AsteroidSpawner : NetworkBehaviour
     public void BreakUpBigAsteroid(Vector3 position)
     {
         int splintersToSpawn = Random.Range(_minMediumAsteroidSplinters, _maxMediumAsteroidSplinters);
-        Debug.Log(splintersToSpawn);
 
         for (int counter = 0; counter < splintersToSpawn; counter++)
         {

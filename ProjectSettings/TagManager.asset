@@ -6,11 +6,7 @@ TagManager:
   tags:
   - TagBullet
   - TagAsteroid
-  - TagWall
   - TagPlayerShip
-  - TagAlien
-  - TagAlienBullet
-  - TagShieldPower
   layers:
   - Default
   - TransparentFX
